@@ -6,7 +6,7 @@ Currently learning to build with code, strengthening my foundation in **DSA & Co
 ---
 
 ## About Me
-- 🎓 **Education:** B.Tech in Computer Science Engineering — SAGE University, Indore
+- 🎓 **Education:** B.Tech in Computer Science Technology — SAGE University, Indore
 - 🧠 **Core Focus:** Data Structures & Algorithms (DSA) and Core Mathematics
 - 📊 **Exploring:** Data Science, Artificial Intelligence (AI), and Machine Learning (ML)
 - 📍 **Location:** Indore, India
