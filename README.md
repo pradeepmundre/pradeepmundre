@@ -15,7 +15,7 @@ Currently learning to build with code, strengthening my foundation in **DSA & Co
 
 ## Connect With Me
 - 💼 **LinkedIn:** [linkedin.com/in/pradeepmundre](https://www.linkedin.com/in/pradeepmundre)
-- 💻 **LeetCode:** [leetcode.com/u/pradeep_mundre](https://leetcode.com/u/pradeep_mundre)
+- 💻 **LeetCode:** [leetcode.com/u/pradeepmundre](https://leetcode.com/u/pradeepmundre)
 - 🐦 **X (Twitter):** [@Pradeep_mundre](https://x.com/Pradeep_mundre)
 - 📫 **Email:** [hi@pradeepmundre.in](mailto:hi@pradeepmundre.in)
 
